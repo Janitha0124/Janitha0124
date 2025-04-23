@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **janitharasadun828@gmail.com**
 
-- 💼 My Portfolio - **janitharuhunuhewa.vercel.app**
+- 💼 My Portfolio - <a href="https://janitharuhunuhewa.vercel.app" target="_blank">janitharuhunuhewa.vercel.app</a>
 
 - ⚡ Fun fact **"👾 My code runs perfectly... until I actually need to show it to someone!"**
 
