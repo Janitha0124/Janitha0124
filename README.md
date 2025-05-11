@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janitha Ruhunuhewa</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Virtutry**
+- 🔭 I’m currently working on **Virtutry** project
   
 - 🔭 I’m worked on **Pet Life Project** Link - https://www.pet-lifes.com/
     
