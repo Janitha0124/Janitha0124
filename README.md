@@ -7,8 +7,6 @@
     
 - 🌱 I’m currently learning **Java,React,Node.js**
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **janitharasadun828@gmail.com**
 
 - 💼 My Portfolio - <a href="https://janitharuhunuhewa.vercel.app" target="_blank">janitharuhunuhewa.vercel.app</a>
